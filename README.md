@@ -1,4 +1,4 @@
-Program for mapping chemical soil properties (R-script):
+PROGRAM FOR MAPPING CHEMICAL SOIL PROPERTIES (R-script):
 
 tested on grassland and arable land in South Tyrol, Northern Italy (Master Thesis 2021)
 
