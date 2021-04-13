@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>cl_grarp3_150</Description>
+    <NoDataValue>3.00000000000000E+00</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="NBITS">2</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
