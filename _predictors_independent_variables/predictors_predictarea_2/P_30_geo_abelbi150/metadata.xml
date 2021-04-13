@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="de"><Esri><CreaDate>20201127</CreaDate><CreaTime>12303700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20201127" Time="123037">Reclassify geo_elbin150 VALUE "1 0;2 1;3 0" C:\Users\Elvis\Desktop\Masterarbeit\1_Daten\2_DTM_Predictors_CLC\8_Geology\3_CATEGORIES\Geology_meine\geo_ABelbi150 DATA</Process></lineage></DataProperties></Esri></metadata>
